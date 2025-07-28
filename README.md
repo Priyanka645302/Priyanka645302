@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanka645302
-- 👀 I’m interested in ui/ux, web development etc
+- 👀 I’m interested in AR/VR,ui/ux, web development etc
 - 🌱 I’m currently studying in Gec Kozhikode,kerala as a computer Science and Design Fourth year student 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
